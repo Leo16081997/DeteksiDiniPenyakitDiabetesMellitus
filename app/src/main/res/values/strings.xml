@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Deteksi Dini Penyakit Diabetes Mellitus</string>
+
+    <string name="judul_button">Masuk</string>
+    <string name="Button1">Mulai Periksa</string>
+    <string name="Button2">Referensi Data Pakar</string>
+    <string name="Button3">Tentang Aplikasi</string>
+
+
+    <string name="Pertanyaan1">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan2">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan3">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan4">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan5">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan6">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan7">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan8">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan9">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan10">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan11">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan12">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan13">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan14">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan15">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan16">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan17">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan18">Apakah Anda mengalami tenan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan19">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan20">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan21">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan22">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan23">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan24">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan25">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan26">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan27">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan28">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan29">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Pertanyaan30">Apakah Anda mengalami tekanan darah tinggi(Hipertensi)?</string>
+    <string name="Deteksi">Deteksi</string>
+    <string name="ButtonHome1">Home</string>
+
+
+    <string name="ReferensiDataPakar1">Berikut ini penjelasan mengenai Diabetes Mellitus mulai dari definis,</string>
+    <string name="ReferensiDataPakar2">Berikut ini penjelasan mengenai Diabetes Mellitus mulai dari definis,</string>
+    <string name="ButtonHome2">Home</string>
+
+    <string name="TentangAplikasi1">abdvddbdfr,</string>
+    <string name="ButtonHome3">Home</string>
+
+
+</resources>
