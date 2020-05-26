@@ -1,1 +1,3 @@
 # DeteksiDiniPenyakitDiabetesMellitus
+ABSTRACT
+dddddddddddddddddddddddddddddddd
